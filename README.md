@@ -29,7 +29,7 @@ This repository provides a comprehensive workflow for visualizing hydropower pro
 
 You can view an image of the interactive Tableau dashboard below. Click the image to go to Tableau public and see the interactive version:
 
-[<img src="Hydropower_dashboard.png">](https://public.tableau.com/views/NepalHydropower/HydropowerDashboard?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[<img src="Hydropower_dashboard.png" alt="Hydropower Dashboard" width="800">](https://public.tableau.com/views/NepalHydropower/HydropowerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Requirements
 
